@@ -4,10 +4,11 @@
   <artifactId>generator-templates</artifactId>
   <version>0.5.0</version>
   <versioning>
-    <release>0.5.0</release>
+    <release>0.5.1</release>
     <versions>
       <version>0.5.0</version>
+      <version>0.5.1</version>
     </versions>
-    <lastUpdated>20111201122617</lastUpdated>
+    <lastUpdated>20111201173025</lastUpdated>
   </versioning>
 </metadata>
